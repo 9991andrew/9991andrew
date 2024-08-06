@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Andrew Whenham]!
+# 👋 Hi, I'm Andrew!
 
 I'm a passionate software developer with a background in Information Systems and Physical Sciences from Athabasca University. I love creating dynamic and extensible software solutions, particularly in game development.
 
